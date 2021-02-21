@@ -2,8 +2,45 @@
     color: black;
     background-color: cyan;
     text-shadow: white 3px 3px;
+    text-align: center;
 }
 
-head {
-    background-color: tomato;
+.divTitulo {
+    background-color: bisque;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+.head_ {
+    width: 100%;
+}
+
+.div1 {
+    background-color: aqua;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    font-size: 20px;
+}
+
+.div2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: aqua;
+    font-size: 20px;
+    float: right;
+    width: 50%;
+    text-align: right;
+}
+
+.divPai {
+    background-color: aqua;
+    display: inline-block;
+    width: 100%;
+}
+
+a {
+    padding-left: 10px;
 }
